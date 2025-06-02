@@ -1,0 +1,47 @@
+# Title: Pi-hole Whitelist for Swiss Domains
+# Description: Curated allowlist of domains primarily related to Swiss online services, ensuring proper functionality with Pi-hole
+# Last modified: 2025-06-02
+# Version: 1.0
+# Expires: 
+# License: Unlicense
+# Creator: Tuxli42
+# Maintainer: Tuxli42
+
+
+
+
+#MeteoSwiss
+app-in.meteoswiss-app.ch
+cluster-prod.ubique.ch
+
+#watson.ch
+oneid.watson.ch
+
+
+#LOGITECH HARMONY
+svcs.myharmony.com
+
+
+#APPLE MUSIC
+itunes.apple.com
+s.mzstatic.com
+
+#APPLE ID
+appleid.apple.com
+
+#iOS WETTER
+sp-ssl.ls.apple.com
+gsp-ssl.ls-apple.com.akadns.net
+
+
+
+
+
+
+
+
+
+
+
+
+
