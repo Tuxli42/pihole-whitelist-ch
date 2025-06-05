@@ -20,6 +20,7 @@ oneid.watson.ch
 
 #LOGITECH HARMONY
 svcs.myharmony.com
+logging.dhg.myharmony.com
 
 
 #APPLE MUSIC
