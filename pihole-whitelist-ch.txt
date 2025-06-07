@@ -13,6 +13,7 @@
 #MeteoSwiss
 app-in.meteoswiss-app.ch
 cluster-prod.ubique.ch
+app-prod-ws.meteoswiss-app.ch
 
 #watson.ch
 oneid.watson.ch
@@ -26,6 +27,7 @@ logging.dhg.myharmony.com
 #APPLE MUSIC
 itunes.apple.com
 s.mzstatic.com
+musicstatus.itunes.apple.com
 
 #APPLE ID
 appleid.apple.com
@@ -34,12 +36,62 @@ appleid.apple.com
 sp-ssl.ls.apple.com
 gsp-ssl.ls-apple.com.akadns.net
 
+#APPLE
+captive.apple.com 
+gsp1.apple.com 
+www.apple.com 
+www.appleiphonecell.com
 
+#MICROSOFT
+www.msftncsi.com 
+www.msftconnecttest.com
+g.live.com
+dl.delivery.mp.microsoft.com 
+geo-prod.do.dsp.mp.microsoft.com 
+displaycatalog.mp.microsoft.com
+sls.update.microsoft.com.akadns.net 
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net 
+tlu.dl.delivery.mp.microsoft.com
 
+#MICROSOFT EDGE
+msedge.api.cdp.microsoft.com
 
+#XBOX
+clientconfig.passport.net
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+client-s.gateway.messenger.live.com
+arc.msn.com
+activity.windows.com
+xbox.ipv6.microsoft.com 
+device.auth.xboxlive.com 
+www.msftncsi.com 
+title.mgt.xboxlive.com 
+xsts.auth.xboxlive.com 
+title.auth.xboxlive.com 
+ctldl.windowsupdate.com 
+attestation.xboxlive.com 
+xboxexperiencesprod.experimentation.xboxlive.com 
+xflight.xboxlive.com 
+cert.mgt.xboxlive.com 
+xkms.xboxlive.com 
+def-vef.xboxlive.com 
+notify.xboxlive.com 
+help.ui.xboxlive.com 
+licensing.xboxlive.com 
+eds.xboxlive.com 
+www.xboxlive.com 
+v10.vortex-win.data.microsoft.com 
+settings-win.data.microsoft.com
 
+#MICROSOFT OFFICE
+officeclient.microsoft.com
 
+#EPIC GAME STORE
+tracking.epicgames.com
 
+#EA ORIGIN
+cloudsync-prod.s3.amazonaws.com
 
 
 
