@@ -52,6 +52,7 @@ displaycatalog.mp.microsoft.com
 sls.update.microsoft.com.akadns.net 
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net 
 tlu.dl.delivery.mp.microsoft.com
+client.wns.windows.com
 
 #MICROSOFT EDGE
 msedge.api.cdp.microsoft.com
