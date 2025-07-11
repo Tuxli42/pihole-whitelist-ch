@@ -7,7 +7,9 @@
 # Creator: Tuxli42
 # Maintainer: Tuxli42
 
-
+#Swisstopo
+app-prod-ws.swisstopo-app.ch
+prod-static.swisstopo-app.ch
 
 
 #MeteoSwiss
