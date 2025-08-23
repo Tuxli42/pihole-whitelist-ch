@@ -19,6 +19,7 @@ app-prod-ws.meteoswiss-app.ch
 
 #watson.ch
 oneid.watson.ch
+assets-jpcust.jwpsrv.com
 
 
 #LOGITECH HARMONY
