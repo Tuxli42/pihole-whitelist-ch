@@ -97,7 +97,8 @@ tracking.epicgames.com
 #EA ORIGIN
 cloudsync-prod.s3.amazonaws.com
 
-
+#PUMA
+link.eu.puma.com
 
 
 
