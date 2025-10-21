@@ -26,6 +26,9 @@ cdn.onesignal.com
 entitlements.jwplayer.com
 prd.jwpltx.com
 ping-meta-prd.jwpltx.com
+cdn.jwplayer.com
+content.jwplatform.com
+ssl.p.jwpcdn.com
 
 
 #LOGITECH HARMONY
