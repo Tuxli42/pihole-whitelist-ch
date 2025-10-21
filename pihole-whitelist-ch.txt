@@ -21,6 +21,7 @@ app-prod-ws.meteoswiss-app.ch
 oneid.watson.ch
 assets-jpcust.jwpsrv.com
 sentry.io
+chmedia-cdn.relevant-digital.com
 
 
 #LOGITECH HARMONY
