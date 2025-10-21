@@ -25,6 +25,7 @@ chmedia-cdn.relevant-digital.com
 cdn.onesignal.com
 entitlements.jwplayer.com
 prd.jwpltx.com
+ping-meta-prd.jwpltx.com
 
 
 #LOGITECH HARMONY
