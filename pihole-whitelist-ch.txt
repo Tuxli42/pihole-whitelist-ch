@@ -22,6 +22,7 @@ oneid.watson.ch
 assets-jpcust.jwpsrv.com
 sentry.io
 chmedia-cdn.relevant-digital.com
+cdn.onesignal.com
 
 
 #LOGITECH HARMONY
