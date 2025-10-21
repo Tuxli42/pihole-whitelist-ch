@@ -23,6 +23,7 @@ assets-jpcust.jwpsrv.com
 sentry.io
 chmedia-cdn.relevant-digital.com
 cdn.onesignal.com
+entitlements.jwplayer.com
 
 
 #LOGITECH HARMONY
