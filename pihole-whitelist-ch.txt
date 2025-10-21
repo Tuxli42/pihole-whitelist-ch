@@ -24,6 +24,7 @@ sentry.io
 chmedia-cdn.relevant-digital.com
 cdn.onesignal.com
 entitlements.jwplayer.com
+prd.jwpltx.com
 
 
 #LOGITECH HARMONY
